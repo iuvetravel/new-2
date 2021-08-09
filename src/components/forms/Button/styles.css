@@ -1,0 +1,21 @@
+.btn {
+  display: block;
+  width: 100%;
+  margin: 1rem auto;
+  padding: 1rem;
+  background: #f3afa1;
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1;
+  font-weight: 300;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn:active {
+  transform: translateY(8px);
+}
